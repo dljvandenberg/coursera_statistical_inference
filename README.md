@@ -1,0 +1,2 @@
+# coursera_statistical_inference
+Coursework for Statistical Inference
